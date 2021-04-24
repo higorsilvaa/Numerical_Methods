@@ -1,1 +1,0 @@
-# Numerical_Methods_-_Interpolation
